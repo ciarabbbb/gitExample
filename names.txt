@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,sfang58,Fang,Shumeng
 employee,rzhang534,ZHANG,RUI
